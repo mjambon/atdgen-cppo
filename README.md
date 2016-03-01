@@ -1,4 +1,6 @@
-`cppo-json` is a preprocessor that replaces embedded type definition 
+**2016-03-01: `cppo-json` and `atdgen-cppo` are now part of atdgen (1.8.x)**
+
+`cppo-json` is a preprocessor that replaces embedded type definition
 directives with OCaml type definitions and JSON
 serialization/deserialization code.
 
